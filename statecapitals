@@ -53,12 +53,16 @@ capitals_dict = {
     'Wyoming': 'Cheyenne',
 }
 
-states_list=list(capitals_dict.keys())
-for i in [1,2,3]:
-    state=random.choice(states_list)
-    capital_guess = input("What is the capital of " + state + "? ")
-    if capital_guess == capitals_dict[state]:
-        print("Correct Answer")
-    else:
-        print("Try Another")
+states_list = list(capitals_dict.keys())
+for i in [1, 2, 3]:
+    state = random.choice(states_list)
+    for j in [1,2,3]:
+        capital_guess = input("What is the capital of " + state + "? ")
+        if capital_guess == capitals_dict[state]:
+            print("Correct Answer")
+            break
+        else:
+            print("Try Again")
+    user_input=input("Try Another State")
+
 print("Thanks for playing the capitals game")
