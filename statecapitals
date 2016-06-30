@@ -61,8 +61,10 @@ for i in [1, 2, 3]:
         if capital_guess == capitals_dict[state]:
             print("Correct Answer")
             break
-        else:
+        if j<3:
             print("Try Again")
-    user_input=input("Try Another State")
-
+            continue
+        print("The Correct Answer is " + capitals_dict[state])
+    user_input=input("Try Another State Y/N : ")
+    if user_input=="N":break
 print("Thanks for playing the capitals game")
