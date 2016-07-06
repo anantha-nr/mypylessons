@@ -1,50 +1,50 @@
-Alabama,Montgomery
-Alaska,Juneau
-Arizona,Phoenix
-Arkansas,Little Rock
-California,Sacramento
-Colorado,Denver
-Connecticut,Hartford
-Delaware,Dover
-Florida,Tallahassee
-Georgia,Atlanta
-Hawaii,Honolulu
-Idaho,Boise
-Illinois,Springfield
-Indiana,Indianapolis
-Iowa,Des Moines
-Kansas,Topeka
-Kentucky,Frankfort
-Louisiana,Baton Rouge
-Maine,Augusta
-Maryland,Annapolis
-Massachusetts,Boston
-Michigan,Lansing
-Minnesota,Saint Paul
-Mississippi,Jackson
-Missouri,Jefferson City
-Montana,Helena
-Nebraska,Lincoln
-Nevada,Carson City
-New Hampshire,Concord
-New Jersey,Trenton
-New Mexico,Santa Fe
-New York,Albany
-North Carolina,Raleigh
-North Dakota,Bismarck
-Ohio,Columbus
-Oklahoma,Oklahoma City
-Oregon,Salem
-Pennsylvania,Harrisburg
-Rhode Island,Providence
-South Carolina,Columbia
-South Dakota,Pierre
-Tennessee,Nashville
-Texas,Austin
-Utah,Salt Lake City
-Vermont,Montpelier
-Virginia,Richmond
-Washington,Olympia
-West Virginia,Charleston
-Wisconsin,Madison
-Wyoming,Cheyenne
+Capital of Alabama,Montgomery
+Capital of Alaska,Juneau
+Capital of Arizona,Phoenix
+Capital of Arkansas,Little Rock
+Capital of California,Sacramento
+Capital of Colorado,Denver
+Capital of Connecticut,Hartford
+Capital of Delaware,Dover
+Capital of Florida,Tallahassee
+Capital of Georgia,Atlanta
+Capital of Hawaii,Honolulu
+Capital of Idaho,Boise
+Capital of Illinois,Springfield
+Capital of Indiana,Indianapolis
+Capital of Iowa,Des Moines
+Capital of Kansas,Topeka
+Capital of Kentucky,Frankfort
+Capital of Louisiana,Baton Rouge
+Capital of Maine,Augusta
+Capital of Maryland,Annapolis
+Capital of Massachusetts,Boston
+Capital of Michigan,Lansing
+Capital of Minnesota,Saint Paul
+Capital of Mississippi,Jackson
+Capital of Missouri,Jefferson City
+Capital of Montana,Helena
+Capital of Nebraska,Lincoln
+Capital of Nevada,Carson City
+Capital of New Hampshire,Concord
+Capital of New Jersey,Trenton
+Capital of New Mexico,Santa Fe
+Capital of New York,Albany
+Capital of North Carolina,Raleigh
+Capital of North Dakota,Bismarck
+Capital of Ohio,Columbus
+Capital of Oklahoma,Oklahoma City
+Capital of Oregon,Salem
+Capital of Pennsylvania,Harrisburg
+Capital of Rhode Island,Providence
+Capital of South Carolina,Columbia
+Capital of South Dakota,Pierre
+Capital of Tennessee,Nashville
+Capital of Texas,Austin
+Capital of Utah,Salt Lake City
+Capital of Vermont,Montpelier
+Capital of Virginia,Richmond
+Capital of Washington,Olympia
+Capital of West Virginia,Charleston
+Capital of Wisconsin,Madison
+Capital of Wyoming,Cheyenne
